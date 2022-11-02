@@ -1,0 +1,15 @@
+{
+  "name": "faqs",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node -r dotenv/config index.js"
+  },
+  "author": "dev.gardo@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-telegram-bot-api": "^0.59.0"
+  }
+}
